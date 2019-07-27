@@ -35,3 +35,4 @@ func main() {
     sort.Sort(byLength(fruits))
     fmt.Println(fruits)
 }
+
